@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Memorizador de Leyes Vehiculares</title>
+    <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="selector-container">
+            <h3>Seleccione las categorías de leyes a cargar:</h3>
+            <form id="category-form">
+                <label><input type="checkbox" name="category" value="viales"> Viales</label><br>
+                <label><input type="checkbox" name="category" value="transitorias"> Transitorias</label><br>
+                <label><input type="checkbox" name="category" value="preventivas"> Preventivas</label><br>
+                <label><input type="checkbox" name="category" value="restrictivas"> Restrictivas</label><br>
+                <label><input type="checkbox" name="category" value="informativas"> Informativas</label><br>
+                <button type="button" id="load-btn">Cargar Selección</button>
+            </form>
+        </div>
+        <div id="ley-container">
+            <div id="ley-img-container">
+                <img id="ley-img" src="" alt="Imagen de la ley">
+            </div>
+            <h2 id="ley-titulo" class="oculto"></h2>
+            <p id="ley-descripcion" class="oculto"></p>
+        </div>
+        <button id="reveal-btn" class="oculto">Revelar</button>
+        <button id="next-btn" class="oculto">Siguiente</button>
+    </div>
+    <script src="./js/script.js"></script>
+</body>
+</html>

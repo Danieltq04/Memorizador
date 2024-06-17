@@ -1,0 +1,267 @@
+[
+    {
+        "img": "./imgs/informativas/1.png",
+        "titulo": "Puesto sanitario",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/2.png",
+        "titulo": "Servicio telefónico",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/3.png",
+        "titulo": "Estación de servicio",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/4.png",
+        "titulo": "Teleférico",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/5.png",
+        "titulo": "Servicio mecánico",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/6.png",
+        "titulo": "Balneario",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/7.png",
+        "titulo": "Playa",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/8.png",
+        "titulo": "Hotel",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/9.png",
+        "titulo": "Bar",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/10.png",
+        "titulo": "Campamento",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/11.png",
+        "titulo": "Restaurante",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/12.png",
+        "titulo": "Aeropuerto",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/13.png",
+        "titulo": "Gomería",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/14.png",
+        "titulo": "Estacionamiento",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/15.png",
+        "titulo": "Punto panorámico",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/16.png",
+        "titulo": "Plaza",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/17.png",
+        "titulo": "Correo",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/18.png",
+        "titulo": "Estacionamiento de casas rodantes",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/19.png",
+        "titulo": "Museo",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/20.png",
+        "titulo": "Policia",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/21.png",
+        "titulo": "Detención de transporte público de pasajeros",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/22.png",
+        "titulo": "Taxi",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/23.png",
+        "titulo": "Terminal de omnibus",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/24.png",
+        "titulo": "Terminal de ferrocarril",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/25.png",
+        "titulo": "Ruta panamericana",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/26.png",
+        "titulo": "Ruta nacional",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/27.png",
+        "titulo": "Ruta provincial",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/28.png",
+        "titulo": "Nomenclatura urbana",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/29.png",
+        "titulo": "Nomenclatura urbana",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/30.png",
+        "titulo": "Identificación de región y localidad",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/31.png",
+        "titulo": "Orientación en caminos primarios y secundarios",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/32.png",
+        "titulo": "Orientación en caminos secundarios",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/33.png",
+        "titulo": "Comienzo o fin de zona urbana",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/34.png",
+        "titulo": "Identificación de jurisdicción o accidente geográfico",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/35.png",
+        "titulo": "Mojon kilimétrico",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/36.png",
+        "titulo": "Nomenclatura de autopista",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/37.png",
+        "titulo": "Comienzo de autopista",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/38.png",
+        "titulo": "Fin de autopista",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/39.png",
+        "titulo": "Camino o calle sin salida",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/40.png",
+        "titulo": "Camino o calle sin salida",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/41.png",
+        "titulo": "Camino o paso transitable",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/42.png",
+        "titulo": "Camino o paso transitable",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/43.png",
+        "titulo": "Esquema de recorrido",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/44.png",
+        "titulo": "Desvío por cambio de sentido",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/45.png",
+        "titulo": "Estacionamiento permitido",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/46.png",
+        "titulo": "Permitido girar",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/47.png",
+        "titulo": "Permitido girar",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/48.png",
+        "titulo": "Dirección permitida",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/49.png",
+        "titulo": "Dirección permitida",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/50.png",
+        "titulo": "Direcciones permitidas",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/51.png",
+        "titulo": "Direcciones permitidas",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/52.png",
+        "titulo": "Direcciones permitidas",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/informativas/53.png",
+        "titulo": "Direcciones permitidas",
+        "descripcion": ""
+    }
+]

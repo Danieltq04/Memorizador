@@ -1,0 +1,262 @@
+[
+    {
+        "img": "./imgs/preventivas/1.png",
+        "titulo": "Curva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/2.png",
+        "titulo": "Curva y contracurva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/3.png",
+        "titulo": "Curva en S",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/4.png",
+        "titulo": "Camino sinuoso",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/5.png",
+        "titulo": "Pendiente descendente",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/6.png",
+        "titulo": "Pendiente ascendente",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/7.png",
+        "titulo": "Estrechamiento de ambas manos",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/8.png",
+        "titulo": "estrechamiento de una mano",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/9.png",
+        "titulo": "Perfil irregular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/10.png",
+        "titulo": "Baden",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/11.png",
+        "titulo": "Lomada",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/12.png",
+        "titulo": "Calzada resbaladiza",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/13.png",
+        "titulo": "Proyección de piedras",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/14.png",
+        "titulo": "Derrumbes",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/15.png",
+        "titulo": "Purnte angosto",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/16.png",
+        "titulo": "Puente movil",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/17.png",
+        "titulo": "Ancho limitado",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/18.png",
+        "titulo": "Altura limitada",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/19.png",
+        "titulo": "Calzada dividida",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/20.png",
+        "titulo": "Rotonda",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/21.png",
+        "titulo": "Incorporación de tránsito lateral",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/22.png",
+        "titulo": "Inicio de doble circulación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/23.png",
+        "titulo": "Encrucijada cruce",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/24.png",
+        "titulo": "Encrucijada empalme",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/25.png",
+        "titulo": "Encrucijada bifurcación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/26.png",
+        "titulo": "Encrucijada bifurcación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/27.png",
+        "titulo": "Escolares",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/28.png",
+        "titulo": "Niños",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/29.png",
+        "titulo": "Ciclistas",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/30.png",
+        "titulo": "Jinetes",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/31.png",
+        "titulo": "Animales sueltos",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/32.png",
+        "titulo": "Corredor aéreo",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/33.png",
+        "titulo": "Ambulancia",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/34.png",
+        "titulo": "Presencia de vehículo extraño",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/35.png",
+        "titulo": "Presencia de vehículo extraño",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/36.png",
+        "titulo": "Fuertes vientos laterales",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/37.png",
+        "titulo": "Proximidad de semáforo",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/38.png",
+        "titulo": "Proximidad de señal restrictiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/39.png",
+        "titulo": "Proximidad de señal restrictiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/40.png",
+        "titulo": "Proximidad de señal restrictiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/41.png",
+        "titulo": "Flecha direccional",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/42.png",
+        "titulo": "Flecha direccional",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/43.png",
+        "titulo": "Cruce ferroviario",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/44.png",
+        "titulo": "Paneles de prevención",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/45.png",
+        "titulo": "Paneles de prevención",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/46.png",
+        "titulo": "Paneles de prevención",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/47.png",
+        "titulo": "Cruce san andrés",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/48.png",
+        "titulo": "Curva cerrada",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/49.png",
+        "titulo": "Cruce de peatones",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/50.png",
+        "titulo": "Atención",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/51.png",
+        "titulo": "Fin de prevención",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/preventivas/52.png",
+        "titulo": "Fin de prevención",
+        "descripcion": ""
+    }
+]

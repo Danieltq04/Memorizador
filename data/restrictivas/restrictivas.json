@@ -1,0 +1,257 @@
+[
+    {
+        "img": "./imgs/restrictivas/1.png",
+        "titulo": "Limitación de peso",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/2.png",
+        "titulo": "Limitación de peso por eje",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/3.png",
+        "titulo": "Limitación de altura",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/4.png",
+        "titulo": "Limitación de ancho",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/5.png",
+        "titulo": "Limitación del largo del vehículo",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/6.png",
+        "titulo": "Limitación de velocidad máxima",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/7.png",
+        "titulo": "Limitación de velocidad mínima",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/8.png",
+        "titulo": "Estacionamiento exclusivo",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/9.png",
+        "titulo": "Circulación exclusiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/10.png",
+        "titulo": "Circulación exclusiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/11.png",
+        "titulo": "Circulación exclusiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/12.png",
+        "titulo": "Circulación exclusiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/13.png",
+        "titulo": "Circulación exclusiva",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/14.png",
+        "titulo": "Giro obligatorio",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/15.png",
+        "titulo": "Giro obligatorio",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/16.png",
+        "titulo": "Sentido de circulación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/17.png",
+        "titulo": "Sentido de circulación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/18.png",
+        "titulo": "Sentido de circulación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/19.png",
+        "titulo": "Sentido de circulación",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/20.png",
+        "titulo": "Paso obligado",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/21.png",
+        "titulo": "Paso obligado",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/22.png",
+        "titulo": "Tránsito pesado a la derecha",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/23.png",
+        "titulo": "Peatones por la izquierda",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/24.png",
+        "titulo": "Puesto de control",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/25.png",
+        "titulo": "Comienzo de doble mano",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/26.png",
+        "titulo": "Pare",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/27.png",
+        "titulo": "Ceda el paso",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/28.png",
+        "titulo": "Preferecia de avance",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/29.png",
+        "titulo": "Barreras ferroviarias",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/30.png",
+        "titulo": "No avanzar",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/31.png",
+        "titulo": "Contramano",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/32.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/33.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/34.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/35.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/36.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/37.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/38.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/39.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/40.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/41.png",
+        "titulo": "Prohibido circular",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/42.png",
+        "titulo": "No girar a la izquierda",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/43.png",
+        "titulo": "No girar a la derecha",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/44.png",
+        "titulo": "No girar en U",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/45.png",
+        "titulo": "Prohibido adelantarse",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/46.png",
+        "titulo": "No ruidos molestos",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/47.png",
+        "titulo": "No estacionar",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/48.png",
+        "titulo": "No estacionar ni detenerse",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/49.png",
+        "titulo": "Prohibido cambiar de carril",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/50.png",
+        "titulo": "Fin de la prescripción",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/restrictivas/51.png",
+        "titulo": "Fin de la prescripción",
+        "descripcion": ""
+    }
+]

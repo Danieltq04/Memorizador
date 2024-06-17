@@ -1,0 +1,112 @@
+[
+    {
+        "img": "./imgs/viales/1.png",
+        "titulo": "Discontinua",
+        "descripcion": "Delimita los carroles. Puede ser traspuesta para avanzar"
+    },
+    {
+        "img": "./imgs/viales/2.png",
+        "titulo": "Continua",
+        "descripcion": "Delimita los carriles. No debe ser traspuesta ni circular sobre ella."
+    },
+    {
+        "img": "./imgs/viales/3.png",
+        "titulo": "1 Discontinua 1 Continua",
+        "descripcion": "Puede ser traspuesta, si la lìnea del lado que circula es discontinua."
+    },
+    {
+        "img": "./imgs/viales/4.png",
+        "titulo": "H.1. 2 Continua",
+        "descripcion": "Separan las dos corrientes opuestas de tránsito. No deben ser traspuestas ni circular."
+    },
+    {
+        "img": "./imgs/viales/5.png",
+        "titulo": "Semáforo",
+        "descripcion": "Detenerse, detenerse y esperar, permite avanzar"
+    },
+    {
+        "img": "./imgs/viales/6.png",
+        "titulo": "H.12 Inscripciones",
+        "descripcion": "Sin descripción"
+    },
+    {
+        "img": "./imgs/viales/7.png",
+        "titulo": "Líneas Auxiliares para reducir la Velocidad",
+        "descripcion": "Descripcion"
+    },
+    {
+        "img": "./imgs/viales/8.png",
+        "titulo": "H.18 Para niebla",
+        "descripcion": "Sucesión de flechas separadas de 40m una de la otra"
+    },
+    {
+        "img": "./imgs/viales/9.png",
+        "titulo": "Demarcación urbana Líneas",
+        "descripcion": "a) Líneas de carril. b) De pare. c) Doble Fl separadora. d) Fl Direccionales. e) Senda Peatonal. f) Líneas discontinuas. g) Prohibido Estacionarse. h) Prohibido estacionar"
+    },
+    {
+        "img": "./imgs/viales/10.png",
+        "titulo": "Semáforo con flechas de giro",
+        "descripcion": "Prohibe o permite continuar la marcha de un vehículo según lo indique las flechas direccionales."
+    },
+    {
+        "img": "./imgs/viales/11.png",
+        "titulo": "Semáforo con flechas de giro",
+        "descripcion": "Prohibe o permite continuar la marcha de un vehículo según lo indique las flechas direccionales."
+    },
+    {
+        "img": "./imgs/viales/12.png",
+        "titulo": "Semáforo Peaton",
+        "descripcion": "La figura peatonal roja o amarilla obliga a detenerse."
+    },
+    {
+        "img": "./imgs/viales/13.png",
+        "titulo": "Semáforo Peaton",
+        "descripcion": "La figura peatonal verde o blanca permite efectuar el cruce de la calzada"
+    },
+    {
+        "img": "./imgs/viales/14.png",
+        "titulo": "Atención",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/15.png",
+        "titulo": "Seguir a la derecha o a la izquierda",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/16.png",
+        "titulo": "Parar de frente",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/17.png",
+        "titulo": "Detenerse",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/18.png",
+        "titulo": "Detenerse a la izquierda",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/19.png",
+        "titulo": "Pasar por detrás",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/20.png",
+        "titulo": "Avanzar",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/21.png",
+        "titulo": "Activar a la derecha o a la izquierda",
+        "descripcion": "Sin escripcion"
+    },
+    {
+        "img": "./imgs/viales/22.png",
+        "titulo": "Pasar por delante",
+        "descripcion": "Sin escripcion"
+    }
+]

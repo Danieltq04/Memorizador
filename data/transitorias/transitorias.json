@@ -1,0 +1,87 @@
+[
+    {
+        "img": "./imgs/transitorias/1.png",
+        "titulo": "Calle o carretera en construcción o cerrada",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/2.png",
+        "titulo": "Desvío",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/3.png",
+        "titulo": "Carretera en un sólo carril",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/4.png",
+        "titulo": "Zona de explosivos",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/5.png",
+        "titulo": "Longitud de la construcción",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/6.png",
+        "titulo": "Fin de la construcción",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/7.png",
+        "titulo": "Estrechamiento de calzada",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/8.png",
+        "titulo": "Barendillero",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/9.png",
+        "titulo": "Equipo pesado en la vía",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/10.png",
+        "titulo": "Trabajos en la banquina",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/11.png",
+        "titulo": "Vallas (b) tipo (I)",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/12.png",
+        "titulo": "Vallas (a) tipo (II)",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/13.png",
+        "titulo": "Conos",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/14.png",
+        "titulo": "Tambores",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/15.png",
+        "titulo": "Muro jersey",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/16.png",
+        "titulo": "Vallas (b) tipo (III)",
+        "descripcion": ""
+    },
+    {
+        "img": "./imgs/transitorias/17.png",
+        "titulo": "Delineadores",
+        "descripcion": ""
+    }
+]
