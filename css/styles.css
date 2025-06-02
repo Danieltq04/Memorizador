@@ -67,6 +67,9 @@ body {
 .oculto {
     display: none;
 }
+body {
+    position: relative;
+}
  /* borrar*/
 .gif-superior-derecho {
     position: absolute;
